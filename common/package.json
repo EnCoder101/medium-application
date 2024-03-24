@@ -1,0 +1,16 @@
+{
+  "name": "@enc0der101/common-for-medium-application",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-for-medium-application": "^1.0.1",
+    "zod": "^3.22.4"
+  }
+}
